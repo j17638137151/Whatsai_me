@@ -83,11 +83,11 @@ export default function CTASection() {
         {/* Section Header */}
         <div className="text-center mb-16">
           <h2 className="section-title">
-            Ready to <span className="gradient-text-primary">Enhance</span> Your{" "}
-            <span className="gradient-text-secondary">Experience</span>?
+            Ready to <span className="gradient-text-primary">Experience</span> Our{" "}
+            <span className="gradient-text-secondary">AI Magic</span>?
           </h2>
           <p className="section-subtitle">
-            Experience how AI can enhance your conversations. 
+            Experience how our AI applications can transform your daily life. 
             Start your free trial today and discover the difference.
           </p>
         </div>

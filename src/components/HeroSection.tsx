@@ -88,9 +88,9 @@ export default function HeroSection() {
           ref={titleRef}
           className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 leading-tight"
         >
-          <span className="gradient-text-primary">Smart AI</span>
+          <span className="gradient-text-primary">AI Innovation</span>
           <br />
-          <span className="gradient-text-secondary">Assistant</span>
+          <span className="gradient-text-secondary">Lab</span>
         </h1>
 
         {/* Subtitle */}
@@ -98,12 +98,12 @@ export default function HeroSection() {
           ref={subtitleRef}
           className="text-xl md:text-2xl text-muted-foreground mb-12 max-w-3xl mx-auto leading-relaxed"
         >
-          Enhance your messaging experience with AI assistance. Get helpful suggestions, 
-          quick responses, and smart features to improve your conversations.
+          We turn imagination into intelligent experiences. Our mission is simple: build delightful, useful, 
+          and boundary-pushing AI applications that empower people to explore, create, and connect.
         </p>
 
         {/* CTA Buttons */}
-        <div ref={ctaRef} className="flex flex-col sm:flex-row gap-4 justify-center items-center">
+        {/* <div ref={ctaRef} className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <button className="btn-primary text-lg px-8 py-4 group">
             <span className="flex items-center gap-2">
               Get Started
@@ -121,7 +121,7 @@ export default function HeroSection() {
           <button className="btn-secondary text-lg px-8 py-4">
             Watch Demo
           </button>
-        </div>
+        </div> */}
 
         {/* Stats */}
         <div className="mt-16 grid grid-cols-1 md:grid-cols-3 gap-8 max-w-2xl mx-auto">

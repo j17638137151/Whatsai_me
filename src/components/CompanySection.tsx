@@ -119,8 +119,8 @@ export default function CompanySection() {
 
             {/* Main Title */}
             <h2 className="text-4xl md:text-5xl font-bold mb-6 leading-tight">
-              Building <span className="gradient-text-primary">Smart</span> Solutions for{" "}
-              <span className="gradient-text-secondary">Better Communication</span>
+              We turn <span className="gradient-text-primary">imagination</span> into{" "}
+              <span className="gradient-text-secondary">intelligent experiences</span>
             </h2>
 
             {/* Company Description */}
@@ -132,8 +132,7 @@ export default function CompanySection() {
               </p>
               
               <p>
-                From the stars above to the stories within, our suite of products brings AI into everyday life, 
-                making advanced technology accessible and useful for everyone.
+                From the stars above to the stories within, our suite of products brings AI into everyday life.
               </p>
             </div>
 

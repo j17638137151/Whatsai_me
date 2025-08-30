@@ -59,39 +59,39 @@ export default function FeaturesSection() {
 
   const features = [
     {
-      icon: "🤖",
-      title: "Smart Conversations",
-      description: "AI-powered chat that helps you communicate more effectively on WhatsApp.",
+      icon: "⭐",
+      title: "AI Astrology",
+      description: "Personalized cosmic insights, reimagined with smart algorithms.",
       gradient: "from-primary to-secondary"
     },
     {
-      icon: "🔒",
-      title: "Privacy Focused",
-      description: "Built with privacy in mind. Your conversations and data remain secure.",
+      icon: "🎭",
+      title: "AI Character Chat",
+      description: "Talk with historical figures, fictional heroes, or entirely new personalities.",
       gradient: "from-secondary to-accent"
     },
     {
-      icon: "⚡",
-      title: "Fast & Responsive",
-      description: "Quick responses that help you stay connected without delays.",
+      icon: "🎨",
+      title: "AI Image Generation",
+      description: "Transform ideas into stunning visuals with just a few words.",
       gradient: "from-accent to-primary"
     },
     {
-      icon: "🌍",
-      title: "Multi-Language Support",
-      description: "Communicate in multiple languages with built-in translation capabilities.",
+      icon: "📚",
+      title: "AI Storytelling",
+      description: "Create compelling narratives and stories with AI assistance.",
       gradient: "from-primary to-accent"
     },
     {
-      icon: "🎯",
-      title: "Helpful Features",
-      description: "Smart suggestions and tools to enhance your WhatsApp experience.",
+      icon: "🎓",
+      title: "AI Learning",
+      description: "Personalized educational experiences powered by intelligent algorithms.",
       gradient: "from-secondary to-primary"
     },
     {
-      icon: "📱",
-      title: "Easy Integration",
-      description: "Works seamlessly with your existing WhatsApp setup.",
+      icon: "✨",
+      title: "AI Creativity",
+      description: "Unlock your creative potential with AI-powered tools and inspiration.",
       gradient: "from-accent to-secondary"
     }
   ];
@@ -108,11 +108,11 @@ export default function FeaturesSection() {
         {/* Section Header */}
         <div className="text-center mb-16">
           <h2 className="section-title">
-            Why Choose <span className="gradient-text-primary">WhatsaiMe</span>?
+            Our <span className="gradient-text-primary">AI Products</span> That{" "}
+            <span className="gradient-text-secondary">Transform</span> Everyday Life
           </h2>
           <p className="section-subtitle">
-            Discover how AI can make your conversations more efficient and enjoyable 
-            with our smart assistant features.
+            From the stars above to the stories within, our suite of products brings AI into everyday life.
           </p>
         </div>
 
