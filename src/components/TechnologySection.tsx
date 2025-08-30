@@ -89,26 +89,26 @@ export default function TechnologySection() {
   const techFeatures = [
     {
       icon: "🧠",
-      title: "Advanced AI Models",
-      description: "State-of-the-art language models with 175B+ parameters for human-like conversations.",
+      title: "Modern AI Technology",
+      description: "Built with current AI language models for natural and helpful conversations.",
       color: "primary"
     },
     {
       icon: "🔮",
-      title: "3D Visualization",
-      description: "Immersive 3D interfaces powered by WebGL and Three.js for next-gen user experience.",
+      title: "Interactive Interface",
+      description: "User-friendly design with modern web technologies for smooth experience.",
       color: "secondary"
     },
     {
       icon: "⚡",
-      title: "Real-time Processing",
-      description: "Sub-100ms response times with optimized inference engines and edge computing.",
+      title: "Fast Performance",
+      description: "Optimized for quick responses and smooth user interactions.",
       color: "accent"
     },
     {
       icon: "🔒",
-      title: "Enterprise Security",
-      description: "SOC 2 Type II certified with end-to-end encryption and GDPR compliance.",
+      title: "Security Focused",
+      description: "Built with security best practices to protect user privacy and data.",
       color: "primary"
     }
   ];
@@ -125,11 +125,11 @@ export default function TechnologySection() {
         {/* Section Header */}
         <div className="text-center mb-16">
           <h2 className="section-title">
-            Cutting-Edge <span className="gradient-text-primary">Technology</span>
+            Modern <span className="gradient-text-primary">Technology</span>
           </h2>
           <p className="section-subtitle">
-            Experience the future with our advanced AI and 3D technology stack that powers 
-            the next generation of intelligent applications.
+            Built with current AI and web technologies to deliver a smooth and reliable 
+            user experience.
           </p>
         </div>
 
@@ -217,23 +217,23 @@ export default function TechnologySection() {
 
             {/* Performance Metrics */}
             <div className="mt-8 p-6 bg-gradient-to-r from-primary/10 to-secondary/10 rounded-2xl border border-primary/20">
-              <h4 className="text-lg font-semibold text-foreground mb-4">Performance Metrics</h4>
+              <h4 className="text-lg font-semibold text-foreground mb-4">Key Features</h4>
               <div className="grid grid-cols-2 gap-4">
                 <div className="text-center">
-                  <div className="text-2xl font-bold text-primary">99.9%</div>
-                  <div className="text-xs text-muted-foreground">Uptime</div>
+                  <div className="text-2xl font-bold text-primary">Fast</div>
+                  <div className="text-xs text-muted-foreground">Response</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-2xl font-bold text-secondary">&lt;100ms</div>
-                  <div className="text-xs text-muted-foreground">Response Time</div>
+                  <div className="text-2xl font-bold text-secondary">Secure</div>
+                  <div className="text-xs text-muted-foreground">Privacy</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-2xl font-bold text-accent">60fps</div>
-                  <div className="text-xs text-muted-foreground">3D Rendering</div>
+                  <div className="text-2xl font-bold text-accent">Reliable</div>
+                  <div className="text-xs text-muted-foreground">Service</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-2xl font-bold text-primary">50M+</div>
-                  <div className="text-xs text-muted-foreground">Daily Requests</div>
+                  <div className="text-2xl font-bold text-primary">Smart</div>
+                  <div className="text-xs text-muted-foreground">AI</div>
                 </div>
               </div>
             </div>

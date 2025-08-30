@@ -60,38 +60,38 @@ export default function FeaturesSection() {
   const features = [
     {
       icon: "🤖",
-      title: "Intelligent Conversations",
-      description: "AI that understands context, remembers conversations, and adapts to your communication style.",
+      title: "Smart Conversations",
+      description: "AI-powered chat that helps you communicate more effectively on WhatsApp.",
       gradient: "from-primary to-secondary"
     },
     {
       icon: "🔒",
-      title: "Privacy First",
-      description: "End-to-end encryption with enterprise-grade security. Your conversations stay private.",
+      title: "Privacy Focused",
+      description: "Built with privacy in mind. Your conversations and data remain secure.",
       gradient: "from-secondary to-accent"
     },
     {
       icon: "⚡",
-      title: "Lightning Fast",
-      description: "Real-time responses with sub-second latency. Never wait for your AI assistant again.",
+      title: "Fast & Responsive",
+      description: "Quick responses that help you stay connected without delays.",
       gradient: "from-accent to-primary"
     },
     {
       icon: "🌍",
-      title: "Multi-Language",
-      description: "Support for 50+ languages with natural, native-sounding conversations.",
+      title: "Multi-Language Support",
+      description: "Communicate in multiple languages with built-in translation capabilities.",
       gradient: "from-primary to-accent"
     },
     {
       icon: "🎯",
-      title: "Smart Automation",
-      description: "Automate repetitive tasks, schedule messages, and manage conversations intelligently.",
+      title: "Helpful Features",
+      description: "Smart suggestions and tools to enhance your WhatsApp experience.",
       gradient: "from-secondary to-primary"
     },
     {
       icon: "📱",
-      title: "Seamless Integration",
-      description: "Works directly within WhatsApp. No additional apps or complex setups required.",
+      title: "Easy Integration",
+      description: "Works seamlessly with your existing WhatsApp setup.",
       gradient: "from-accent to-secondary"
     }
   ];
@@ -111,8 +111,8 @@ export default function FeaturesSection() {
             Why Choose <span className="gradient-text-primary">WhatsaiMe</span>?
           </h2>
           <p className="section-subtitle">
-            Experience the future of messaging with cutting-edge AI technology that transforms 
-            how you communicate on WhatsApp.
+            Discover how AI can make your conversations more efficient and enjoyable 
+            with our smart assistant features.
           </p>
         </div>
 

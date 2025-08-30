@@ -88,9 +88,7 @@ export default function HeroSection() {
           ref={titleRef}
           className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 leading-tight"
         >
-          <span className="gradient-text-primary">AI-Powered</span>
-          <br />
-          <span className="text-foreground">WhatsApp</span>
+          <span className="gradient-text-primary">Smart AI</span>
           <br />
           <span className="gradient-text-secondary">Assistant</span>
         </h1>
@@ -100,8 +98,8 @@ export default function HeroSection() {
           ref={subtitleRef}
           className="text-xl md:text-2xl text-muted-foreground mb-12 max-w-3xl mx-auto leading-relaxed"
         >
-          Transform your conversations with intelligent AI. Experience seamless, 
-          personalized messaging that learns and adapts to your style.
+          Enhance your messaging experience with AI assistance. Get helpful suggestions, 
+          quick responses, and smart features to improve your conversations.
         </p>
 
         {/* CTA Buttons */}
@@ -128,16 +126,16 @@ export default function HeroSection() {
         {/* Stats */}
         <div className="mt-16 grid grid-cols-1 md:grid-cols-3 gap-8 max-w-2xl mx-auto">
           <div className="text-center">
-            <div className="text-3xl font-bold text-primary mb-2">10M+</div>
+            <div className="text-3xl font-bold text-primary mb-2">AI-Powered</div>
+            <div className="text-sm text-muted-foreground">Technology</div>
+          </div>
+          <div className="text-center">
+            <div className="text-3xl font-bold text-secondary mb-2">Smart</div>
             <div className="text-sm text-muted-foreground">Conversations</div>
           </div>
           <div className="text-center">
-            <div className="text-3xl font-bold text-secondary mb-2">99.9%</div>
-            <div className="text-sm text-muted-foreground">Accuracy</div>
-          </div>
-          <div className="text-center">
-            <div className="text-3xl font-bold text-accent mb-2">24/7</div>
-            <div className="text-sm text-muted-foreground">Availability</div>
+            <div className="text-3xl font-bold text-accent mb-2">Secure</div>
+            <div className="text-sm text-muted-foreground">Privacy</div>
           </div>
         </div>
       </div>

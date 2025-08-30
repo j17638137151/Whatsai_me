@@ -88,16 +88,16 @@ export default function CompanySection() {
     },
     {
       name: "WhatsaiMe",
-      description: "AI-powered WhatsApp assistant that transforms your conversations.",
+      description: "AI-powered assistant that enhances your messaging experience.",
       icon: "💬"
     }
   ];
 
   const stats = [
-    { number: "50M+", label: "AI Interactions" },
-    { number: "100+", label: "Countries" },
-    { number: "99.9%", label: "Uptime" },
-    { number: "24/7", label: "Support" }
+    { number: "AI-Powered", label: "Technology" },
+    { number: "Global", label: "Reach" },
+    { number: "Reliable", label: "Service" },
+    { number: "24/7", label: "Availability" }
   ];
 
   return (
@@ -119,21 +119,21 @@ export default function CompanySection() {
 
             {/* Main Title */}
             <h2 className="text-4xl md:text-5xl font-bold mb-6 leading-tight">
-              We Turn <span className="gradient-text-primary">Imagination</span> Into{" "}
-              <span className="gradient-text-secondary">Intelligent Experiences</span>
+              Building <span className="gradient-text-primary">Smart</span> Solutions for{" "}
+              <span className="gradient-text-secondary">Better Communication</span>
             </h2>
 
             {/* Company Description */}
             <div className="space-y-6 text-lg text-muted-foreground leading-relaxed">
               <p>
-                At WhatsAI Limited, we believe that AI should feel less like a tool—and more like magic. 
-                Our mission is simple: build delightful, useful, and boundary-pushing AI applications that 
-                empower people to explore, create, and connect in entirely new ways.
+                At WhatsAI Limited, we turn imagination into intelligent experiences. Our mission is simple: 
+                build delightful, useful, and boundary-pushing AI applications that empower people to explore, 
+                create, and connect in entirely new ways.
               </p>
               
               <p>
                 From the stars above to the stories within, our suite of products brings AI into everyday life, 
-                making the extraordinary accessible to everyone.
+                making advanced technology accessible and useful for everyone.
               </p>
             </div>
 
@@ -190,9 +190,10 @@ export default function CompanySection() {
                   Welcome to the Factory Where Ideas Come Alive 🚀
                 </h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  We&apos;re a team of builders, dreamers, and technologists who believe in the power of AI 
-                  to transform human experiences. Every day, we push the boundaries of what&apos;s possible, 
-                  creating solutions that inspire and empower.
+                  We&apos;re a team of builders, dreamers, and technologists who believe that AI should feel 
+                  less like a tool—and more like magic. Founders come from backgrounds such as Goldman Sachs, 
+                  Morgan Stanley, Columbia University and more who hold the highest standard and are deeply 
+                  mission driven in their work.
                 </p>
               </div>
             </div>

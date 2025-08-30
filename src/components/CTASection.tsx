@@ -83,12 +83,12 @@ export default function CTASection() {
         {/* Section Header */}
         <div className="text-center mb-16">
           <h2 className="section-title">
-            Ready to <span className="gradient-text-primary">Transform</span> Your{" "}
-            <span className="gradient-text-secondary">WhatsApp</span>?
+            Ready to <span className="gradient-text-primary">Enhance</span> Your{" "}
+            <span className="gradient-text-secondary">Experience</span>?
           </h2>
           <p className="section-subtitle">
-            Join thousands of users already experiencing the future of AI-powered messaging. 
-            Start your free trial today and see the difference.
+            Experience how AI can enhance your conversations. 
+            Start your free trial today and discover the difference.
           </p>
         </div>
 
@@ -237,8 +237,8 @@ export default function CTASection() {
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground">Email</p>
-                    <a href="mailto:hello@aiappfactory.com" className="text-foreground hover:text-primary transition-colors duration-300">
-                      hello@aiappfactory.com
+                    <a href="mailto:hello@whatsai.me" className="text-foreground hover:text-primary transition-colors duration-300">
+                      hello@whatsai.me
                     </a>
                   </div>
                 </div>
@@ -252,7 +252,10 @@ export default function CTASection() {
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground">Location</p>
-                    <p className="text-foreground">Hong Kong</p>
+                    <p className="text-foreground">
+                      Room 1508, 15/F, Argyle Centre Office Tower 2<br />
+                      625 Nathan Road, Mong Kok, Hong Kong
+                    </p>
                   </div>
                 </div>
 
@@ -264,8 +267,8 @@ export default function CTASection() {
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground">Phone</p>
-                    <a href="tel:+1-555-0123" className="text-foreground hover:text-primary transition-colors duration-300">
-                      +1 (555) 012-3456
+                    <a href="tel:+852-0000-0000" className="text-foreground hover:text-primary transition-colors duration-300">
+                      +852 0000 0000
                     </a>
                   </div>
                 </div>
@@ -294,7 +297,7 @@ export default function CTASection() {
         <div className="text-center mt-16">
           <div className="inline-block p-6 bg-gradient-to-r from-primary/10 to-secondary/10 rounded-2xl border border-primary/20">
             <p className="text-lg text-foreground font-medium">
-              🚀 Join the AI revolution today and experience the future of messaging!
+              🚀 Experience the future of AI-powered messaging with WhatsaiMe!
             </p>
           </div>
         </div>
