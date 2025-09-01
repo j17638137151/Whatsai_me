@@ -241,7 +241,7 @@ export default function TechnologySection() {
         </div>
 
         {/* Bottom CTA */}
-        <div className="text-center mt-16">
+        {/* <div className="text-center mt-16">
           <div className="inline-flex items-center gap-4 p-6 bg-muted/50 backdrop-blur-sm rounded-2xl border border-primary/20">
             <div className="text-left">
               <h4 className="text-lg font-semibold text-foreground mb-1">
@@ -255,7 +255,7 @@ export default function TechnologySection() {
               Launch Demo
             </button>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );
