@@ -34,13 +34,13 @@ export default function PrivacyPolicyPage() {
       <main ref={containerRef} className="container mx-auto px-6 py-12 max-w-4xl">
         <div className="mb-12 text-center">
           <h1 className="text-4xl font-bold mb-4">
-            <span className="gradient-text-primary">隐私政策</span>
+            <span className="gradient-text-primary">Privacy Policy</span>
           </h1>
           <p className="text-muted-foreground text-lg">
-            WhatsAI Limited 隐私保护声明
+            WhatsAI Limited Privacy Statement
           </p>
           <div className="text-sm text-muted-foreground mt-2">
-            最后更新时间：{new Date().toLocaleDateString('zh-CN')}
+            Last Updated: {new Date().toLocaleDateString('en-US')}
           </div>
         </div>
 
