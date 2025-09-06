@@ -1,63 +1,63 @@
-# 隐私政策
+# Privacy Policy
 
-本隐私政策适用于由 WhatsAI Ltd（以下简称“服务提供商”）开发的用于移动设备的 Cosmo: AI 占星术应用程序（以下简称“应用程序”），该应用程序作为一项商业服务。本服务旨在“按原样”使用。
+This privacy policy applies to the Cosmo: AI astrology app (hereafter referred to as the "Application") for mobile devices that was created by WhatsAI Ltd (hereafter referred to as the "Service Provider") as a Commercial service. This service is intended for use "AS IS".
 
-## 信息收集和使用
+## Information Collection and Use
 
-本应用程序在您下载和使用时收集信息。此类信息可能包括：
+The Application collects information when you download and use it. This information may include:
 
-- 您设备的互联网协议地址（例如 IP 地址）  
-- 您访问的应用程序页面、访问的时间和日期以及在这些页面上花费的时间  
-- 申请所花的时间  
-- 您在移动设备上使用的操作系统  
+- Your device's Internet Protocol address (e.g. IP address)  
+- The pages of the Application that you visit, the time and date of your visit, the time spent on those pages  
+- The time spent on the Application  
+- The operating system you use on your mobile device  
 
-该应用程序不会收集有关您的移动设备位置的**精确**信息。  
-该应用程序**会**收集您的设备位置，这有助于服务提供商确定您的大致地理位置并以以下方式使用：
+The Application **does not** gather precise information about the location of your mobile device.  
+The Application **does** collect your device's location, which helps the Service Provider determine your approximate geographical location and use it in the following ways:
 
-- **地理定位服务**：服务提供商利用位置数据提供个性化内容、相关推荐和基于位置的服务等功能。  
-- **分析和改进**：汇总和匿名的位置数据可帮助服务提供商分析用户行为、识别趋势并提高应用程序的整体性能和功能。  
-- **第三方服务**：服务提供商可能会定期向外部服务传输匿名位置数据。这些服务旨在帮助第三方服务增强应用程序并优化其产品。  
+- **Geolocation Services**: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.  
+- **Analytics and Improvements**: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.  
+- **Third-Party Services**: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.  
 
-服务提供商可能会使用您提供的信息不时与您联系，向您提供重要信息、所需的通知和营销促销。  
-为了获得更佳的体验，在使用本应用程序时，服务提供商可能会要求您向我们提供某些个人身份信息。服务提供商所要求的信息将由其保留，并按照本隐私政策的规定使用。
+The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices, and marketing promotions.  
+For a better experience, while using the Application, the Service Provider may require you to provide certain personally identifiable information. The information that the Service Provider requests will be retained by them and used as described in this privacy policy.
 
-## 第三方访问
+## Third Party Access
 
-我们仅会定期将汇总的匿名数据传输给外部服务，以帮助服务提供商改进应用程序及其服务。服务提供商可能会按照本隐私声明中所述的方式与第三方共享您的信息。
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
-服务提供商可能会披露用户提供和自动收集的信息：
+The Service Provider may disclose User Provided and Automatically Collected Information:
 
-- 根据法律要求，例如遵守传票或类似的法律程序；  
-- 当他们真诚地相信披露对于保护他们的权利、保护您或他人的安全、调查欺诈行为或响应政府要求是必要的时；  
-- 与代表他们工作的可信赖的服务提供商合作，不会独立使用我们向他们披露的信息，并同意遵守本隐私声明中规定的规则。
+- as required by law, such as to comply with a subpoena, or similar legal process;  
+- when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;  
+- with their trusted service providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-## 选择退出权利
+## Opt-Out Rights
 
-您可以通过卸载应用程序轻松停止其所有信息收集。您可以使用移动设备自带的标准卸载流程，或通过移动应用市场或网络卸载。
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-## 数据保留政策
+## Data Retention Policy
 
-服务提供商将在你使用本应用程序期间以及之后的合理时间内保留用户提供的数据。如果你希望他们删除你通过本应用程序提供的用户提供数据，请通过 [1846422937@qq.com](mailto:1846422937@qq.com) 联系他们，他们会在合理的时间内回复你。
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at [1846422937@qq.com](mailto:1846422937@qq.com) and they will respond in a reasonable time.
 
-## 孩子们
+## Children
 
-服务提供商不会使用该应用程序故意向 13 岁以下的儿童索取数据或进行营销。  
-服务提供商不会故意收集儿童的个人身份信息。服务提供商鼓励所有儿童切勿通过应用程序和/或服务提交任何个人身份信息。服务提供商鼓励父母和法定监护人监督子女的互联网使用情况，并通过指示子女在未经其许可的情况下切勿通过应用程序和/或服务提供个人身份信息来帮助执行本政策。如果您有理由相信儿童已通过应用程序和/或服务向服务提供商提供了个人身份信息，请联系服务提供商 ([1846422937@qq.com](mailto:1846422937@qq.com))，以便他们能够采取必要的措施。  
-您还必须年满 16 周岁才能同意在您所在的国家/地区处理您的个人身份信息（在某些国家/地区，我们可能允许您的父母或监护人代表您这样做）。
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.  
+The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourages parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider ([1846422937@qq.com](mailto:1846422937@qq.com)) so that they will be able to take the necessary actions.  
+You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
 
-## 安全
+## Security
 
-服务提供商注重保护您信息的机密性。服务提供商提供物理、电子和程序保障措施，以保护其处理和维护的信息。
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
-## 变化
+## Changes
 
-本隐私政策可能因任何原因不时更新。服务提供商将通过更新此页面来通知您隐私政策的任何变更。建议您定期查阅本隐私政策，了解任何变更，因为继续使用即表示您同意所有变更。  
-本隐私政策自 **2030 年 12 月 31 日** 起生效。
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.  
+This privacy policy is effective as of **2030-12-31**.
 
-## 您的同意
+## Your Consent
 
-通过使用本应用程序，您同意我们按照本隐私政策中的规定以及我们修改的规定处理您的信息。
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
 
-## 联系我们
+## Contact Us
 
-如果您在使用本应用程序时对隐私有任何疑问，或对实践有任何疑问，请通过电子邮件 [1846422937@qq.com](mailto:1846422937@qq.com) 联系服务提供商。
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at [1846422937@qq.com](mailto:1846422937@qq.com).
